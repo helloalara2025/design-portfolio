@@ -1,6 +1,6 @@
 **Product Designer**
-MS HCI+D @ University of Washington · MS Computer Science @ Northeastern
-Experience at **Slalom Build**, **frog**, and **Harvard Business Publishing** across healthcare, AI, fintech, and education.
+MS HCI+D @ University of Washington · MS Computer Science @ Northeastern,
+with experience at **Slalom Build**, **frog**, and **Harvard Business Publishing** across healthcare, AI, fintech, and education.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alarahakki-blue?style=flat&logo=linkedin)](https://linkedin.com/in/alarahakki)
 [![Email](https://img.shields.io/badge/Email-hakki.a@northeastern.edu-555?style=flat)](mailto:hakki.a@northeastern.edu)
 
