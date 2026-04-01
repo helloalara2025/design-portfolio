@@ -56,7 +56,7 @@ with experience at **Slalom Build**, **frog**, and **Harvard Business Publishing
 ### 05 · Haven (Eli Lilly Design Labs) — chronic pain management
 > Designed a speculative digital health platform prototype for chronic pain patients, emphasizing emotional well-being, accessibility, and equitable design.
 
-**Role:** Product Designer at Slalom Build
+**Role:** Master's
 **Domain:** Healthcare · Speculative Design · Accessibility
 
 ---
@@ -80,7 +80,7 @@ with experience at **Slalom Build**, **frog**, and **Harvard Business Publishing
 ### 08 · Nomix Life Sciences — brand identity
 > 0-to-1 brand identity and fast-paced agile marketing site for a life sciences company.
 
-**Role:** Product Designer at Slalom Build
+**Role:** Product Designer at Scout
 **Domain:** Life Sciences · Brand Identity · Marketing
 
 ---
